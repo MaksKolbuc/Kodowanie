@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lekcija/lekcija.vcxproj" Id="cb85a31f-ccc8-4209-90b3-f2b60f306168" />
+</Solution>
